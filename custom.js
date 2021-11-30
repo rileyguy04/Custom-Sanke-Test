@@ -353,7 +353,7 @@ window.snake.more_menu = function(e) {
                 for(
                   let i = 0; i < (
                     ${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 3
-                      ? 13
+                      ? 7
                     : ${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 4
                       ? 25
                     : ${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 5
@@ -369,7 +369,7 @@ window.snake.more_menu = function(e) {
                 ) {
                   ${pafihwotyhopyplacetheiopafsjafijplesllllllll} i - ~~((
                     ${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 3
-                      ? 13
+                      ? 7
                     : ${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 4
                       ? 25
                     : ${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 5
@@ -384,7 +384,7 @@ window.snake.more_menu = function(e) {
                   ) / 1.25), -4));
                   ${pafihwotyhopyplacetheiopafsjafijplesllllllll} i- ~~((
                     ${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 3
-                      ? 13
+                      ? 7
                     : ${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 4
                       ? 25
                     : ${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 5
@@ -425,7 +425,7 @@ window.snake.more_menu = function(e) {
       eval(
         limesarebetter.replace(
           '1.33;',
-          `1.33;case 3:return _soup;case 4:return 0.45;case 5:return 1.85;case 6:return _soep;case 7:return 18.5;case 8:return 0.35;case 9:return 0.25;case 10:return 0.15;case 11:return 0.05;case 12:return 26640;case 13:return 0.00001;`
+          `1.33;case 3:return _soup;case 4:return 0.45;case 5:return 1.85;case 6:return _soep;case 7:return 18.5;case 8:return 0.35;case 9:return 0.25;case 10:return 0.15;case 11:return 0.05;case 12:return 26640;case 7:return 0.00001;`
         )
       );
       
